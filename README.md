@@ -10,7 +10,7 @@ The howto is broken down into two main sections.
 
 3. Open terminal by root login.
 
-'''sh
+```sh
 # yum -y install wget'
 # bash <(wget -qO- --no-check-certificate https://www.dropbox.com/s/xk8jaqv67m8h15o/vpn.sh)
-'''
+```
